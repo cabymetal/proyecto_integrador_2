@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 data/
+!data/CNPV-2018-NBI.xlsx
 .ipynb_checkpoints
